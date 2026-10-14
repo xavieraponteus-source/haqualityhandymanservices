@@ -1,5 +1,7 @@
-# HA Quality Handyman Services
+# H&A Quality Handyman Services
 
-GitHub Pages public website preview. Publish the main branch root in Settings → Pages.
+Public GitHub Pages website preview.
 
-Services, navigation and FAQs work. The quote form displays a clear preview notice and does not transmit or store customer data. Admin links open the original private backend site. Third-party payments, email and integrations are not configured.
+Services, navigation and FAQs work. The public quote form is a preview and does not transmit or store customer data.
+
+The Admin login link opens the password-protected backend, with inquiry management and a CorrigoPro work-order tracker. CorrigoPro automatic read-only API sync requires an approved CorrigoPro Direct account and API credentials configured securely inside the admin workspace. No credentials are stored in this repository.
